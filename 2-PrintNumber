@@ -1,0 +1,8 @@
+# Author: Ashwani Rathee
+# Print Number Entered by User
+
+# prompt to input 
+print("What's your favourite number ?") 
+# Calling readline() function 
+number = readline() 
+println("The number is ", number)
